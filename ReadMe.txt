@@ -86,3 +86,4 @@ don't do this, some of the UI elements of your application will remain in the
 language of the operating system.
 
 /////////////////////////////////////////////////////////////////////////////
+My blog:http://bbs.21ic.com/home.php?mod=space&uid=993588&do=blog&view=me&from=space
